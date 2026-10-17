@@ -1,0 +1,3323 @@
+[
+  {
+    "il": "EDİRNE",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 125,
+        "min_score": 68.12801,
+        "max_score": 82.88122,
+        "placements_count": 9,
+        "general_quota": 122,
+        "special_quota": 3
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 17,
+        "min_score": 79.03645,
+        "max_score": 84.98222,
+        "placements_count": 8,
+        "general_quota": 15,
+        "special_quota": 2
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 16,
+        "min_score": 77.18947,
+        "max_score": 83.55829,
+        "placements_count": 7,
+        "general_quota": 13,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 158,
+    "overall_min_score": 68.12801,
+    "overall_max_score": 84.98222,
+    "latest_min_score": 77.18947,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KOCAELİ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 274,
+        "min_score": 69.93776,
+        "max_score": 83.20018,
+        "placements_count": 8,
+        "general_quota": 44,
+        "special_quota": 230
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 90,
+        "min_score": 79.83301,
+        "max_score": 91.8475,
+        "placements_count": 10,
+        "general_quota": 71,
+        "special_quota": 19
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 7,
+        "min_score": 79.68272,
+        "max_score": 87.5774,
+        "placements_count": 6,
+        "general_quota": 2,
+        "special_quota": 5
+      }
+    },
+    "total_quota": 371,
+    "overall_min_score": 69.93776,
+    "overall_max_score": 91.8475,
+    "latest_min_score": 79.68272,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "MARDİN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 13,
+        "min_score": 83.31222,
+        "max_score": 90.59224,
+        "placements_count": 7,
+        "general_quota": 9,
+        "special_quota": 4
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 88.34458,
+        "max_score": 93.41038,
+        "placements_count": 3,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 86.06687,
+        "max_score": 89.46024,
+        "placements_count": 5,
+        "general_quota": 0,
+        "special_quota": 5
+      }
+    },
+    "total_quota": 23,
+    "overall_min_score": 83.31222,
+    "overall_max_score": 93.41038,
+    "latest_min_score": 86.06687,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ERZURUM",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 87,
+        "min_score": 69.36187,
+        "max_score": 84.77933,
+        "placements_count": 16,
+        "general_quota": 47,
+        "special_quota": 40
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 189,
+        "min_score": 77.89702,
+        "max_score": 90.33049,
+        "placements_count": 23,
+        "general_quota": 46,
+        "special_quota": 143
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 195,
+        "min_score": 76.59197,
+        "max_score": 87.9541,
+        "placements_count": 26,
+        "general_quota": 66,
+        "special_quota": 129
+      }
+    },
+    "total_quota": 471,
+    "overall_min_score": 69.36187,
+    "overall_max_score": 90.33049,
+    "latest_min_score": 76.59197,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BALIKESİR",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 190,
+        "min_score": 70.32373,
+        "max_score": 91.63196,
+        "placements_count": 24,
+        "general_quota": 83,
+        "special_quota": 107
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 80.06747,
+        "max_score": 87.58341,
+        "placements_count": 5,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 84.23841,
+        "max_score": 87.14909,
+        "placements_count": 3,
+        "general_quota": 0,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 198,
+    "overall_min_score": 70.32373,
+    "overall_max_score": 91.63196,
+    "latest_min_score": 84.23841,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "NİĞDE",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 261,
+        "min_score": 71.57304,
+        "max_score": 83.78198,
+        "placements_count": 7,
+        "general_quota": 260,
+        "special_quota": 1
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 18,
+        "min_score": 82.55949,
+        "max_score": 87.74464,
+        "placements_count": 4,
+        "general_quota": 15,
+        "special_quota": 3
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 79.77175,
+        "max_score": 86.45891,
+        "placements_count": 4,
+        "general_quota": 0,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 283,
+    "overall_min_score": 71.57304,
+    "overall_max_score": 87.74464,
+    "latest_min_score": 79.77175,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "İSTANBUL",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 3431,
+        "min_score": 67.51797,
+        "max_score": 87.7569,
+        "placements_count": 42,
+        "general_quota": 2410,
+        "special_quota": 1021
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 2454,
+        "min_score": 75.07178,
+        "max_score": 90.41108,
+        "placements_count": 81,
+        "general_quota": 1756,
+        "special_quota": 698
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 2130,
+        "min_score": 73.87994,
+        "max_score": 91.03601,
+        "placements_count": 162,
+        "general_quota": 1382,
+        "special_quota": 748
+      }
+    },
+    "total_quota": 8015,
+    "overall_min_score": 67.51797,
+    "overall_max_score": 91.03601,
+    "latest_min_score": 73.87994,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "AFYONKARAHİSAR",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 130,
+        "min_score": 68.60598,
+        "max_score": 86.26153,
+        "placements_count": 16,
+        "general_quota": 130,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 17,
+        "min_score": 80.72421,
+        "max_score": 89.21281,
+        "placements_count": 12,
+        "general_quota": 17,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 7,
+        "min_score": 78.61942,
+        "max_score": 80.62154,
+        "placements_count": 7,
+        "general_quota": 3,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 154,
+    "overall_min_score": 68.60598,
+    "overall_max_score": 89.21281,
+    "latest_min_score": 78.61942,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KONYA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 628,
+        "min_score": 68.73903,
+        "max_score": 89.73976,
+        "placements_count": 27,
+        "general_quota": 448,
+        "special_quota": 180
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 223,
+        "min_score": 79.18025,
+        "max_score": 91.62062,
+        "placements_count": 19,
+        "general_quota": 129,
+        "special_quota": 94
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 83,
+        "min_score": 77.85028,
+        "max_score": 87.85258,
+        "placements_count": 16,
+        "general_quota": 77,
+        "special_quota": 6
+      }
+    },
+    "total_quota": 934,
+    "overall_min_score": 68.73903,
+    "overall_max_score": 91.62062,
+    "latest_min_score": 77.85028,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ANKARA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 895,
+        "min_score": 70.62531,
+        "max_score": 88.09132,
+        "placements_count": 18,
+        "general_quota": 265,
+        "special_quota": 630
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 1031,
+        "min_score": 78.79145,
+        "max_score": 91.73504,
+        "placements_count": 23,
+        "general_quota": 141,
+        "special_quota": 890
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 554,
+        "min_score": 77.52991,
+        "max_score": 90.83054,
+        "placements_count": 17,
+        "general_quota": 148,
+        "special_quota": 406
+      }
+    },
+    "total_quota": 2480,
+    "overall_min_score": 70.62531,
+    "overall_max_score": 91.73504,
+    "latest_min_score": 77.52991,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "SİVAS",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 97,
+        "min_score": 69.13454,
+        "max_score": 85.13017,
+        "placements_count": 16,
+        "general_quota": 93,
+        "special_quota": 4
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 21,
+        "min_score": 79.42848,
+        "max_score": 86.49478,
+        "placements_count": 10,
+        "general_quota": 21,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 33,
+        "min_score": 77.57908,
+        "max_score": 84.23841,
+        "placements_count": 12,
+        "general_quota": 30,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 151,
+    "overall_min_score": 69.13454,
+    "overall_max_score": 86.49478,
+    "latest_min_score": 77.57908,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KÜTAHYA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 387,
+        "min_score": 68.29619,
+        "max_score": 85.37622,
+        "placements_count": 18,
+        "general_quota": 381,
+        "special_quota": 6
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 85.58622,
+        "max_score": 87.83569,
+        "placements_count": 2,
+        "general_quota": 2,
+        "special_quota": 3
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 7,
+        "min_score": 78.98079,
+        "max_score": 87.70877,
+        "placements_count": 4,
+        "general_quota": 0,
+        "special_quota": 7
+      }
+    },
+    "total_quota": 399,
+    "overall_min_score": 68.29619,
+    "overall_max_score": 87.83569,
+    "latest_min_score": 78.98079,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "MANİSA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 130,
+        "min_score": 70.81945,
+        "max_score": 84.60029,
+        "placements_count": 12,
+        "general_quota": 94,
+        "special_quota": 36
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 37,
+        "min_score": 81.6868,
+        "max_score": 89.89212,
+        "placements_count": 18,
+        "general_quota": 29,
+        "special_quota": 8
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 12,
+        "min_score": 81.13759,
+        "max_score": 88.36066,
+        "placements_count": 10,
+        "general_quota": 6,
+        "special_quota": 6
+      }
+    },
+    "total_quota": 179,
+    "overall_min_score": 70.81945,
+    "overall_max_score": 89.89212,
+    "latest_min_score": 81.13759,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "AMASYA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 13,
+        "min_score": 71.95708,
+        "max_score": 83.54644,
+        "placements_count": 3,
+        "general_quota": 13,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 82.60786,
+        "max_score": 88.2124,
+        "placements_count": 2,
+        "general_quota": 3,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 78.66089,
+        "max_score": 85.95002,
+        "placements_count": 3,
+        "general_quota": 2,
+        "special_quota": 1
+      }
+    },
+    "total_quota": 20,
+    "overall_min_score": 71.95708,
+    "overall_max_score": 88.2124,
+    "latest_min_score": 78.66089,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "TOKAT",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 61,
+        "min_score": 70.05667,
+        "max_score": 80.47096,
+        "placements_count": 9,
+        "general_quota": 61,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 15,
+        "min_score": 82.19043,
+        "max_score": 90.03437,
+        "placements_count": 4,
+        "general_quota": 15,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 10,
+        "min_score": 77.36874,
+        "max_score": 86.74902,
+        "placements_count": 4,
+        "general_quota": 8,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 86,
+    "overall_min_score": 70.05667,
+    "overall_max_score": 90.03437,
+    "latest_min_score": 77.36874,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "DÜZCE",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 39,
+        "min_score": 69.5478,
+        "max_score": 82.39371,
+        "placements_count": 7,
+        "general_quota": 39,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 27,
+        "min_score": 79.97439,
+        "max_score": 89.19796,
+        "placements_count": 7,
+        "general_quota": 25,
+        "special_quota": 2
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 79.78823,
+        "max_score": 84.0249,
+        "placements_count": 5,
+        "general_quota": 1,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 71,
+    "overall_min_score": 69.5478,
+    "overall_max_score": 89.19796,
+    "latest_min_score": 79.78823,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ŞIRNAK",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 10,
+        "min_score": 79.99299,
+        "max_score": 88.19744,
+        "placements_count": 4,
+        "general_quota": 8,
+        "special_quota": 2
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 86.10314,
+        "max_score": 92.75646,
+        "placements_count": 3,
+        "general_quota": 5,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 84.0249,
+        "max_score": 91.52396,
+        "placements_count": 5,
+        "general_quota": 1,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 20,
+    "overall_min_score": 79.99299,
+    "overall_max_score": 92.75646,
+    "latest_min_score": 84.0249,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "SAKARYA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 87,
+        "min_score": 71.13974,
+        "max_score": 84.64267,
+        "placements_count": 8,
+        "general_quota": 86,
+        "special_quota": 1
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 52,
+        "min_score": 79.60214,
+        "max_score": 90.00256,
+        "placements_count": 11,
+        "general_quota": 50,
+        "special_quota": 2
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 41,
+        "min_score": 79.18025,
+        "max_score": 86.61122,
+        "placements_count": 12,
+        "general_quota": 39,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 180,
+    "overall_min_score": 71.13974,
+    "overall_max_score": 90.00256,
+    "latest_min_score": 79.18025,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "HATAY",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 87,
+        "min_score": 72.17488,
+        "max_score": 84.97347,
+        "placements_count": 7,
+        "general_quota": 87,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 44,
+        "min_score": 80.53001,
+        "max_score": 91.58232,
+        "placements_count": 10,
+        "general_quota": 37,
+        "special_quota": 7
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 8,
+        "min_score": 80.29914,
+        "max_score": 85.40169,
+        "placements_count": 8,
+        "general_quota": 0,
+        "special_quota": 8
+      }
+    },
+    "total_quota": 139,
+    "overall_min_score": 72.17488,
+    "overall_max_score": 91.58232,
+    "latest_min_score": 80.29914,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "SAMSUN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 347,
+        "min_score": 70.54285,
+        "max_score": 86.23099,
+        "placements_count": 12,
+        "general_quota": 347,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 28,
+        "min_score": 83.13485,
+        "max_score": 89.96669,
+        "placements_count": 8,
+        "general_quota": 27,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 85,
+        "min_score": 78.59159,
+        "max_score": 88.71196,
+        "placements_count": 12,
+        "general_quota": 82,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 460,
+    "overall_min_score": 70.54285,
+    "overall_max_score": 89.96669,
+    "latest_min_score": 78.59159,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ZONGULDAK",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 79,
+        "min_score": 70.27677,
+        "max_score": 85.07367,
+        "placements_count": 8,
+        "general_quota": 79,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 14,
+        "min_score": 81.1207,
+        "max_score": 88.6024,
+        "placements_count": 5,
+        "general_quota": 13,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 7,
+        "min_score": 78.57869,
+        "max_score": 90.81844,
+        "placements_count": 3,
+        "general_quota": 6,
+        "special_quota": 1
+      }
+    },
+    "total_quota": 100,
+    "overall_min_score": 70.27677,
+    "overall_max_score": 90.81844,
+    "latest_min_score": 78.57869,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "GÜMÜŞHANE",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 9,
+        "min_score": 71.23633,
+        "max_score": 79.02981,
+        "placements_count": 3,
+        "general_quota": 9,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 80.87092,
+        "max_score": 90.30955,
+        "placements_count": 2,
+        "general_quota": 3,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 8,
+        "min_score": 77.97517,
+        "max_score": 83.54627,
+        "placements_count": 3,
+        "general_quota": 7,
+        "special_quota": 1
+      }
+    },
+    "total_quota": 21,
+    "overall_min_score": 71.23633,
+    "overall_max_score": 90.30955,
+    "latest_min_score": 77.97517,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "DENİZLİ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 10,
+        "min_score": 74.36698,
+        "max_score": 84.57433,
+        "placements_count": 4,
+        "general_quota": 10,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 82.1018,
+        "max_score": 90.615,
+        "placements_count": 5,
+        "general_quota": 1,
+        "special_quota": 4
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 79.65287,
+        "max_score": 83.70743,
+        "placements_count": 5,
+        "general_quota": 1,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 20,
+    "overall_min_score": 74.36698,
+    "overall_max_score": 90.615,
+    "latest_min_score": 79.65287,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "AĞRI",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 61,
+        "min_score": 74.86764,
+        "max_score": 86.1804,
+        "placements_count": 6,
+        "general_quota": 61,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 82.95072,
+        "max_score": 91.50863,
+        "placements_count": 5,
+        "general_quota": 1,
+        "special_quota": 4
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 13,
+        "min_score": 77.75274,
+        "max_score": 86.83764,
+        "placements_count": 13,
+        "general_quota": 2,
+        "special_quota": 11
+      }
+    },
+    "total_quota": 79,
+    "overall_min_score": 74.86764,
+    "overall_max_score": 91.50863,
+    "latest_min_score": 77.75274,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "MALATYA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 22,
+        "min_score": 74.72277,
+        "max_score": 84.08815,
+        "placements_count": 8,
+        "general_quota": 18,
+        "special_quota": 4
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 84.48664,
+        "max_score": 93.57755,
+        "placements_count": 5,
+        "general_quota": 0,
+        "special_quota": 5
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 7,
+        "min_score": 82.0889,
+        "max_score": 84.37668,
+        "placements_count": 7,
+        "general_quota": 0,
+        "special_quota": 7
+      }
+    },
+    "total_quota": 34,
+    "overall_min_score": 74.72277,
+    "overall_max_score": 93.57755,
+    "latest_min_score": 82.0889,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ERZİNCAN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 168,
+        "min_score": 69.61154,
+        "max_score": 80.27912,
+        "placements_count": 12,
+        "general_quota": 165,
+        "special_quota": 3
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 45,
+        "min_score": 80.45632,
+        "max_score": 85.43796,
+        "placements_count": 3,
+        "general_quota": 43,
+        "special_quota": 2
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 27,
+        "min_score": 76.20878,
+        "max_score": 82.86413,
+        "placements_count": 9,
+        "general_quota": 25,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 240,
+    "overall_min_score": 69.61154,
+    "overall_max_score": 85.43796,
+    "latest_min_score": 76.20878,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KIRKLARELİ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 44,
+        "min_score": 68.45881,
+        "max_score": 84.21758,
+        "placements_count": 5,
+        "general_quota": 41,
+        "special_quota": 3
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 80.38338,
+        "max_score": 88.05805,
+        "placements_count": 4,
+        "general_quota": 2,
+        "special_quota": 3
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 8,
+        "min_score": 77.41589,
+        "max_score": 81.99542,
+        "placements_count": 5,
+        "general_quota": 5,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 57,
+    "overall_min_score": 68.45881,
+    "overall_max_score": 88.05805,
+    "latest_min_score": 77.41589,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ŞANLIURFA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 87,
+        "min_score": 77.58865,
+        "max_score": 86.94221,
+        "placements_count": 8,
+        "general_quota": 86,
+        "special_quota": 1
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 212,
+        "min_score": 80.68639,
+        "max_score": 92.74113,
+        "placements_count": 17,
+        "general_quota": 194,
+        "special_quota": 18
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 887,
+        "min_score": 77.84176,
+        "max_score": 89.32285,
+        "placements_count": 15,
+        "general_quota": 124,
+        "special_quota": 763
+      }
+    },
+    "total_quota": 1186,
+    "overall_min_score": 77.58865,
+    "overall_max_score": 92.74113,
+    "latest_min_score": 77.84176,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KAHRAMANMARAŞ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 35,
+        "min_score": 75.3857,
+        "max_score": 86.60779,
+        "placements_count": 8,
+        "general_quota": 32,
+        "special_quota": 3
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 41,
+        "min_score": 80.93901,
+        "max_score": 88.91386,
+        "placements_count": 12,
+        "general_quota": 32,
+        "special_quota": 9
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 90,
+        "min_score": 78.85232,
+        "max_score": 86.7659,
+        "placements_count": 12,
+        "general_quota": 25,
+        "special_quota": 65
+      }
+    },
+    "total_quota": 166,
+    "overall_min_score": 75.3857,
+    "overall_max_score": 88.91386,
+    "latest_min_score": 78.85232,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "TEKİRDAĞ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 313,
+        "min_score": 68.36585,
+        "max_score": 80.85005,
+        "placements_count": 10,
+        "general_quota": 241,
+        "special_quota": 72
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 88,
+        "min_score": 78.22495,
+        "max_score": 89.60006,
+        "placements_count": 18,
+        "general_quota": 60,
+        "special_quota": 28
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 41,
+        "min_score": 77.66615,
+        "max_score": 85.95886,
+        "placements_count": 8,
+        "general_quota": 34,
+        "special_quota": 7
+      }
+    },
+    "total_quota": 442,
+    "overall_min_score": 68.36585,
+    "overall_max_score": 89.60006,
+    "latest_min_score": 77.66615,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "IĞDIR",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 5,
+        "min_score": 76.5138,
+        "max_score": 83.8421,
+        "placements_count": 5,
+        "general_quota": 3,
+        "special_quota": 2
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 83.26906,
+        "max_score": 86.75908,
+        "placements_count": 4,
+        "general_quota": 3,
+        "special_quota": 2
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 2,
+        "min_score": 80.86045,
+        "max_score": 85.53339,
+        "placements_count": 2,
+        "general_quota": 0,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 12,
+    "overall_min_score": 76.5138,
+    "overall_max_score": 86.75908,
+    "latest_min_score": 80.86045,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BURDUR",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 6,
+        "min_score": 73.93633,
+        "max_score": 82.24062,
+        "placements_count": 4,
+        "general_quota": 3,
+        "special_quota": 3
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 80.8878,
+        "max_score": 86.65108,
+        "placements_count": 5,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 78.44779,
+        "max_score": 82.04905,
+        "placements_count": 4,
+        "general_quota": 0,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 15,
+    "overall_min_score": 73.93633,
+    "overall_max_score": 86.65108,
+    "latest_min_score": 78.44779,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ELAZIĞ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 40,
+        "min_score": 78.85668,
+        "max_score": 89.36659,
+        "placements_count": 8,
+        "general_quota": 15,
+        "special_quota": 25
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 84.34845,
+        "max_score": 91.09362,
+        "placements_count": 4,
+        "general_quota": 3,
+        "special_quota": 2
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 15,
+        "min_score": 83.30736,
+        "max_score": 90.70159,
+        "placements_count": 12,
+        "general_quota": 4,
+        "special_quota": 11
+      }
+    },
+    "total_quota": 60,
+    "overall_min_score": 78.85668,
+    "overall_max_score": 91.09362,
+    "latest_min_score": 83.30736,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BURSA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 432,
+        "min_score": 69.263,
+        "max_score": 87.68397,
+        "placements_count": 27,
+        "general_quota": 349,
+        "special_quota": 83
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 367,
+        "min_score": 78.72742,
+        "max_score": 90.36879,
+        "placements_count": 20,
+        "general_quota": 297,
+        "special_quota": 70
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 158,
+        "min_score": 78.77329,
+        "max_score": 91.59725,
+        "placements_count": 10,
+        "general_quota": 138,
+        "special_quota": 20
+      }
+    },
+    "total_quota": 957,
+    "overall_min_score": 69.263,
+    "overall_max_score": 91.59725,
+    "latest_min_score": 78.77329,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "İZMİR",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 1040,
+        "min_score": 69.71634,
+        "max_score": 89.36888,
+        "placements_count": 13,
+        "general_quota": 136,
+        "special_quota": 904
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 464,
+        "min_score": 79.06062,
+        "max_score": 90.22897,
+        "placements_count": 25,
+        "general_quota": 378,
+        "special_quota": 86
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 168,
+        "min_score": 78.68068,
+        "max_score": 89.53433,
+        "placements_count": 22,
+        "general_quota": 121,
+        "special_quota": 47
+      }
+    },
+    "total_quota": 1672,
+    "overall_min_score": 69.71634,
+    "overall_max_score": 90.22897,
+    "latest_min_score": 78.68068,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KARS",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 16,
+        "min_score": 73.85617,
+        "max_score": 85.2573,
+        "placements_count": 4,
+        "general_quota": 16,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 81.51679,
+        "max_score": 90.05126,
+        "placements_count": 4,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 80.11907,
+        "max_score": 83.52486,
+        "placements_count": 4,
+        "general_quota": 1,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 25,
+    "overall_min_score": 73.85617,
+    "overall_max_score": 90.05126,
+    "latest_min_score": 80.11907,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ESKİŞEHİR",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 87,
+        "min_score": 70.98895,
+        "max_score": 86.78912,
+        "placements_count": 12,
+        "general_quota": 43,
+        "special_quota": 44
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 26,
+        "min_score": 79.71251,
+        "max_score": 87.95613,
+        "placements_count": 15,
+        "general_quota": 11,
+        "special_quota": 15
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 17,
+        "min_score": 78.93891,
+        "max_score": 89.86517,
+        "placements_count": 10,
+        "general_quota": 5,
+        "special_quota": 12
+      }
+    },
+    "total_quota": 130,
+    "overall_min_score": 70.98895,
+    "overall_max_score": 89.86517,
+    "latest_min_score": 78.93891,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "TUNCELİ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 9,
+        "min_score": 78.21512,
+        "max_score": 81.48835,
+        "placements_count": 5,
+        "general_quota": 6,
+        "special_quota": 3
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 83.76708,
+        "max_score": 85.75096,
+        "placements_count": 3,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 80.56027,
+        "max_score": 84.79809,
+        "placements_count": 3,
+        "general_quota": 1,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 17,
+    "overall_min_score": 78.21512,
+    "overall_max_score": 85.75096,
+    "latest_min_score": 80.56027,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KASTAMONU",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 97,
+        "min_score": 68.27156,
+        "max_score": 86.88341,
+        "placements_count": 11,
+        "general_quota": 97,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 55,
+        "min_score": 77.65365,
+        "max_score": 88.11932,
+        "placements_count": 25,
+        "general_quota": 45,
+        "special_quota": 10
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 42,
+        "min_score": 77.62136,
+        "max_score": 87.33362,
+        "placements_count": 17,
+        "general_quota": 39,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 194,
+    "overall_min_score": 68.27156,
+    "overall_max_score": 88.11932,
+    "latest_min_score": 77.62136,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "YOZGAT",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 134,
+        "min_score": 69.12041,
+        "max_score": 88.63762,
+        "placements_count": 14,
+        "general_quota": 116,
+        "special_quota": 18
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 81.91687,
+        "max_score": 85.20709,
+        "placements_count": 2,
+        "general_quota": 5,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 17,
+        "min_score": 78.8692,
+        "max_score": 88.32925,
+        "placements_count": 9,
+        "general_quota": 8,
+        "special_quota": 9
+      }
+    },
+    "total_quota": 156,
+    "overall_min_score": 69.12041,
+    "overall_max_score": 88.63762,
+    "latest_min_score": 78.8692,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KARAMAN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 27,
+        "min_score": 70.23668,
+        "max_score": 83.95149,
+        "placements_count": 4,
+        "general_quota": 26,
+        "special_quota": 1
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 81.74118,
+        "max_score": 85.89524,
+        "placements_count": 3,
+        "general_quota": 5,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 81.49383,
+        "max_score": 89.1169,
+        "placements_count": 2,
+        "general_quota": 2,
+        "special_quota": 1
+      }
+    },
+    "total_quota": 35,
+    "overall_min_score": 70.23668,
+    "overall_max_score": 89.1169,
+    "latest_min_score": 81.49383,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "AYDIN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 153,
+        "min_score": 72.77539,
+        "max_score": 84.81809,
+        "placements_count": 12,
+        "general_quota": 149,
+        "special_quota": 4
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 25,
+        "min_score": 81.98495,
+        "max_score": 89.28901,
+        "placements_count": 9,
+        "general_quota": 24,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 158,
+        "min_score": 78.25433,
+        "max_score": 87.82921,
+        "placements_count": 19,
+        "general_quota": 19,
+        "special_quota": 139
+      }
+    },
+    "total_quota": 336,
+    "overall_min_score": 72.77539,
+    "overall_max_score": 89.28901,
+    "latest_min_score": 78.25433,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "DİYARBAKIR",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 9,
+        "min_score": 84.08224,
+        "max_score": 86.74675,
+        "placements_count": 4,
+        "general_quota": 9,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 88.38646,
+        "max_score": 91.69877,
+        "placements_count": 5,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 87.38881,
+        "max_score": 88.98843,
+        "placements_count": 3,
+        "general_quota": 0,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 17,
+    "overall_min_score": 84.08224,
+    "overall_max_score": 91.69877,
+    "latest_min_score": 87.38881,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BİTLİS",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 43,
+        "min_score": 79.92828,
+        "max_score": 90.9007,
+        "placements_count": 8,
+        "general_quota": 36,
+        "special_quota": 7
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 87.90776,
+        "max_score": 89.28901,
+        "placements_count": 1,
+        "general_quota": 4,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 8,
+        "min_score": 84.19012,
+        "max_score": 88.6407,
+        "placements_count": 7,
+        "general_quota": 4,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 55,
+    "overall_min_score": 79.92828,
+    "overall_max_score": 90.9007,
+    "latest_min_score": 84.19012,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ORDU",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 105,
+        "min_score": 69.18645,
+        "max_score": 83.00605,
+        "placements_count": 12,
+        "general_quota": 103,
+        "special_quota": 2
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 26,
+        "min_score": 80.17027,
+        "max_score": 89.52549,
+        "placements_count": 10,
+        "general_quota": 12,
+        "special_quota": 14
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 233,
+        "min_score": 76.83729,
+        "max_score": 85.67281,
+        "placements_count": 18,
+        "general_quota": 217,
+        "special_quota": 16
+      }
+    },
+    "total_quota": 364,
+    "overall_min_score": 69.18645,
+    "overall_max_score": 89.52549,
+    "latest_min_score": 76.83729,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "SİNOP",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 64,
+        "min_score": 69.44566,
+        "max_score": 79.96474,
+        "placements_count": 5,
+        "general_quota": 64,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 80.23795,
+        "max_score": 87.87555,
+        "placements_count": 3,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 79.31041,
+        "max_score": 81.70937,
+        "placements_count": 2,
+        "general_quota": 2,
+        "special_quota": 1
+      }
+    },
+    "total_quota": 72,
+    "overall_min_score": 69.44566,
+    "overall_max_score": 87.87555,
+    "latest_min_score": 79.31041,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "MUĞLA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 31,
+        "min_score": 72.75994,
+        "max_score": 83.88086,
+        "placements_count": 2,
+        "general_quota": 31,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 18,
+        "min_score": 81.98292,
+        "max_score": 88.41584,
+        "placements_count": 6,
+        "general_quota": 15,
+        "special_quota": 3
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 80.92009,
+        "max_score": 86.86101,
+        "placements_count": 4,
+        "general_quota": 1,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 53,
+    "overall_min_score": 72.75994,
+    "overall_max_score": 88.41584,
+    "latest_min_score": 80.92009,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "GAZİANTEP",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 680,
+        "min_score": 73.85617,
+        "max_score": 90.7417,
+        "placements_count": 3,
+        "general_quota": 38,
+        "special_quota": 642
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 262,
+        "min_score": 80.88179,
+        "max_score": 89.67861,
+        "placements_count": 14,
+        "general_quota": 193,
+        "special_quota": 69
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 77,
+        "min_score": 80.71617,
+        "max_score": 90.13832,
+        "placements_count": 18,
+        "general_quota": 49,
+        "special_quota": 28
+      }
+    },
+    "total_quota": 1019,
+    "overall_min_score": 73.85617,
+    "overall_max_score": 90.7417,
+    "latest_min_score": 80.71617,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "VAN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 70,
+        "min_score": 74.91231,
+        "max_score": 90.66878,
+        "placements_count": 15,
+        "general_quota": 55,
+        "special_quota": 15
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 85.34731,
+        "max_score": 90.73989,
+        "placements_count": 4,
+        "general_quota": 0,
+        "special_quota": 5
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 82.88507,
+        "max_score": 87.67689,
+        "placements_count": 4,
+        "general_quota": 0,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 79,
+    "overall_min_score": 74.91231,
+    "overall_max_score": 90.73989,
+    "latest_min_score": 82.88507,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ANTALYA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 780,
+        "min_score": 69.97289,
+        "max_score": 87.90769,
+        "placements_count": 17,
+        "general_quota": 345,
+        "special_quota": 435
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 240,
+        "min_score": 80.06827,
+        "max_score": 92.16051,
+        "placements_count": 20,
+        "general_quota": 150,
+        "special_quota": 90
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 82,
+        "min_score": 78.47116,
+        "max_score": 87.34855,
+        "placements_count": 19,
+        "general_quota": 64,
+        "special_quota": 18
+      }
+    },
+    "total_quota": 1102,
+    "overall_min_score": 69.97289,
+    "overall_max_score": 92.16051,
+    "latest_min_score": 78.47116,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ÇORUM",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 41,
+        "min_score": 70.67952,
+        "max_score": 82.56092,
+        "placements_count": 8,
+        "general_quota": 41,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 10,
+        "min_score": 80.60013,
+        "max_score": 88.03468,
+        "placements_count": 4,
+        "general_quota": 10,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 10,
+        "min_score": 77.67053,
+        "max_score": 84.26266,
+        "placements_count": 5,
+        "general_quota": 7,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 61,
+    "overall_min_score": 70.67952,
+    "overall_max_score": 88.03468,
+    "latest_min_score": 77.67053,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "TRABZON",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 52,
+        "min_score": 70.1861,
+        "max_score": 81.30702,
+        "placements_count": 9,
+        "general_quota": 52,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 80.53805,
+        "max_score": 86.53348,
+        "placements_count": 3,
+        "general_quota": 3,
+        "special_quota": 2
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 7,
+        "min_score": 78.71209,
+        "max_score": 86.38035,
+        "placements_count": 5,
+        "general_quota": 4,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 64,
+    "overall_min_score": 70.1861,
+    "overall_max_score": 86.53348,
+    "latest_min_score": 78.71209,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ADANA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 187,
+        "min_score": 71.38712,
+        "max_score": 88.13502,
+        "placements_count": 12,
+        "general_quota": 143,
+        "special_quota": 44
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 20,
+        "min_score": 84.33034,
+        "max_score": 95.25329,
+        "placements_count": 12,
+        "general_quota": 13,
+        "special_quota": 7
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 6,
+        "min_score": 82.00028,
+        "max_score": 91.83015,
+        "placements_count": 6,
+        "general_quota": 2,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 213,
+    "overall_min_score": 71.38712,
+    "overall_max_score": 95.25329,
+    "latest_min_score": 82.00028,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ÇANAKKALE",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 10,
+        "min_score": 74.51089,
+        "max_score": 82.90126,
+        "placements_count": 4,
+        "general_quota": 10,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 81.9322,
+        "max_score": 86.06687,
+        "placements_count": 4,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 80.11461,
+        "max_score": 89.1806,
+        "placements_count": 3,
+        "general_quota": 0,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 18,
+    "overall_min_score": 74.51089,
+    "overall_max_score": 89.1806,
+    "latest_min_score": 80.11461,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ARDAHAN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 53,
+        "min_score": 70.28268,
+        "max_score": 76.75852,
+        "placements_count": 5,
+        "general_quota": 51,
+        "special_quota": 2
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 9,
+        "min_score": 79.58275,
+        "max_score": 86.20183,
+        "placements_count": 2,
+        "general_quota": 9,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 8,
+        "min_score": 77.23622,
+        "max_score": 83.42333,
+        "placements_count": 4,
+        "general_quota": 7,
+        "special_quota": 1
+      }
+    },
+    "total_quota": 70,
+    "overall_min_score": 70.28268,
+    "overall_max_score": 86.20183,
+    "latest_min_score": 77.23622,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "MUŞ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 8,
+        "min_score": 78.56826,
+        "max_score": 86.12982,
+        "placements_count": 3,
+        "general_quota": 8,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 84.64179,
+        "max_score": 89.35426,
+        "placements_count": 3,
+        "general_quota": 3,
+        "special_quota": 2
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 80.22465,
+        "max_score": 87.00887,
+        "placements_count": 5,
+        "general_quota": 1,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 18,
+    "overall_min_score": 78.56826,
+    "overall_max_score": 89.35426,
+    "latest_min_score": 80.22465,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BİLECİK",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 29,
+        "min_score": 69.82572,
+        "max_score": 79.86454,
+        "placements_count": 3,
+        "general_quota": 29,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 17,
+        "min_score": 80.82012,
+        "max_score": 86.54354,
+        "placements_count": 2,
+        "general_quota": 17,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 11,
+        "min_score": 78.44779,
+        "max_score": 83.8428,
+        "placements_count": 4,
+        "general_quota": 9,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 57,
+    "overall_min_score": 69.82572,
+    "overall_max_score": 86.54354,
+    "latest_min_score": 78.44779,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ARTVİN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 41,
+        "min_score": 69.36779,
+        "max_score": 76.49702,
+        "placements_count": 8,
+        "general_quota": 41,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 80.18918,
+        "max_score": 82.17151,
+        "placements_count": 2,
+        "general_quota": 4,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 6,
+        "min_score": 75.64106,
+        "max_score": 78.47318,
+        "placements_count": 6,
+        "general_quota": 4,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 51,
+    "overall_min_score": 69.36779,
+    "overall_max_score": 82.17151,
+    "latest_min_score": 75.64106,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "YALOVA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 30,
+        "min_score": 72.13842,
+        "max_score": 85.9061,
+        "placements_count": 3,
+        "general_quota": 29,
+        "special_quota": 1
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 15,
+        "min_score": 81.84919,
+        "max_score": 85.8489,
+        "placements_count": 1,
+        "general_quota": 15,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 2,
+        "min_score": 80.90516,
+        "max_score": 84.54385,
+        "placements_count": 1,
+        "general_quota": 0,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 47,
+    "overall_min_score": 72.13842,
+    "overall_max_score": 85.9061,
+    "latest_min_score": 80.90516,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "GİRESUN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 33,
+        "min_score": 72.23138,
+        "max_score": 84.32599,
+        "placements_count": 4,
+        "general_quota": 33,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 27,
+        "min_score": 79.58884,
+        "max_score": 87.09674,
+        "placements_count": 5,
+        "general_quota": 26,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 33,
+        "min_score": 76.93969,
+        "max_score": 82.01278,
+        "placements_count": 6,
+        "general_quota": 31,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 93,
+    "overall_min_score": 72.23138,
+    "overall_max_score": 87.09674,
+    "latest_min_score": 76.93969,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "UŞAK",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 34,
+        "min_score": 70.59573,
+        "max_score": 84.05761,
+        "placements_count": 7,
+        "general_quota": 33,
+        "special_quota": 1
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 84.03497,
+        "max_score": 89.74629,
+        "placements_count": 3,
+        "general_quota": 5,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 11,
+        "min_score": 78.90547,
+        "max_score": 86.64905,
+        "placements_count": 4,
+        "general_quota": 11,
+        "special_quota": 0
+      }
+    },
+    "total_quota": 50,
+    "overall_min_score": 70.59573,
+    "overall_max_score": 89.74629,
+    "latest_min_score": 78.90547,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "RİZE",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 103,
+        "min_score": 69.57967,
+        "max_score": 81.11023,
+        "placements_count": 3,
+        "general_quota": 103,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 38,
+        "min_score": 79.8495,
+        "max_score": 84.14581,
+        "placements_count": 7,
+        "general_quota": 38,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 17,
+        "min_score": 77.9006,
+        "max_score": 81.96604,
+        "placements_count": 6,
+        "general_quota": 14,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 158,
+    "overall_min_score": 69.57967,
+    "overall_max_score": 84.14581,
+    "latest_min_score": 77.9006,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KAYSERİ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 31,
+        "min_score": 76.39946,
+        "max_score": 88.81437,
+        "placements_count": 4,
+        "general_quota": 31,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 82.59982,
+        "max_score": 83.84766,
+        "placements_count": 4,
+        "general_quota": 2,
+        "special_quota": 3
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 36,
+        "min_score": 80.52758,
+        "max_score": 89.65922,
+        "placements_count": 10,
+        "general_quota": 24,
+        "special_quota": 12
+      }
+    },
+    "total_quota": 72,
+    "overall_min_score": 76.39946,
+    "overall_max_score": 89.65922,
+    "latest_min_score": 80.52758,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "NEVŞEHİR",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 10,
+        "min_score": 78.36096,
+        "max_score": 84.61671,
+        "placements_count": 4,
+        "general_quota": 10,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 14,
+        "min_score": 83.55431,
+        "max_score": 88.76762,
+        "placements_count": 7,
+        "general_quota": 13,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 10,
+        "min_score": 80.15892,
+        "max_score": 83.38706,
+        "placements_count": 6,
+        "general_quota": 7,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 34,
+    "overall_min_score": 78.36096,
+    "overall_max_score": 88.76762,
+    "latest_min_score": 80.15892,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "HAKKARİ",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 12,
+        "min_score": 77.98187,
+        "max_score": 81.38356,
+        "placements_count": 4,
+        "general_quota": 12,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 84.06117,
+        "max_score": 87.9666,
+        "placements_count": 3,
+        "general_quota": 3,
+        "special_quota": 2
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 81.9809,
+        "max_score": 87.72526,
+        "placements_count": 5,
+        "general_quota": 1,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 22,
+    "overall_min_score": 77.98187,
+    "overall_max_score": 87.9666,
+    "latest_min_score": 81.9809,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "SİİRT",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 10,
+        "min_score": 82.07112,
+        "max_score": 87.8676,
+        "placements_count": 4,
+        "general_quota": 10,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 85.48625,
+        "max_score": 90.07666,
+        "placements_count": 2,
+        "general_quota": 5,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 85.70024,
+        "max_score": 89.37114,
+        "placements_count": 3,
+        "general_quota": 0,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 18,
+    "overall_min_score": 82.07112,
+    "overall_max_score": 90.07666,
+    "latest_min_score": 85.70024,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ÇANKIRI",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 14,
+        "min_score": 68.89441,
+        "max_score": 79.56561,
+        "placements_count": 6,
+        "general_quota": 14,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 9,
+        "min_score": 78.91351,
+        "max_score": 87.29492,
+        "placements_count": 7,
+        "general_quota": 9,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 17,
+        "min_score": 77.74024,
+        "max_score": 88.44968,
+        "placements_count": 10,
+        "general_quota": 14,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 40,
+    "overall_min_score": 68.89441,
+    "overall_max_score": 88.44968,
+    "latest_min_score": 77.74024,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BOLU",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 105,
+        "min_score": 69.52087,
+        "max_score": 80.93384,
+        "placements_count": 6,
+        "general_quota": 105,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 33,
+        "min_score": 79.58161,
+        "max_score": 92.20327,
+        "placements_count": 13,
+        "general_quota": 23,
+        "special_quota": 10
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 12,
+        "min_score": 79.36681,
+        "max_score": 91.59522,
+        "placements_count": 9,
+        "general_quota": 8,
+        "special_quota": 4
+      }
+    },
+    "total_quota": 150,
+    "overall_min_score": 69.52087,
+    "overall_max_score": 92.20327,
+    "latest_min_score": 79.36681,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KIRIKKALE",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 6,
+        "min_score": 78.79197,
+        "max_score": 83.72548,
+        "placements_count": 3,
+        "general_quota": 6,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 81.03566,
+        "max_score": 88.40983,
+        "placements_count": 3,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 77.83089,
+        "max_score": 85.17277,
+        "placements_count": 3,
+        "general_quota": 1,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 14,
+    "overall_min_score": 77.83089,
+    "overall_max_score": 88.40983,
+    "latest_min_score": 77.83089,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ISPARTA",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 9,
+        "min_score": 75.33149,
+        "max_score": 90.63099,
+        "placements_count": 5,
+        "general_quota": 9,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 16,
+        "min_score": 80.25483,
+        "max_score": 86.18933,
+        "placements_count": 7,
+        "general_quota": 10,
+        "special_quota": 6
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 10,
+        "min_score": 78.98808,
+        "max_score": 85.60513,
+        "placements_count": 8,
+        "general_quota": 7,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 35,
+    "overall_min_score": 75.33149,
+    "overall_max_score": 90.63099,
+    "latest_min_score": 78.98808,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BAYBURT",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 10,
+        "min_score": 71.34112,
+        "max_score": 77.76408,
+        "placements_count": 1,
+        "general_quota": 10,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 13,
+        "min_score": 79.81363,
+        "max_score": 83.49061,
+        "placements_count": 2,
+        "general_quota": 13,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 8,
+        "min_score": 77.44412,
+        "max_score": 83.25819,
+        "placements_count": 3,
+        "general_quota": 7,
+        "special_quota": 1
+      }
+    },
+    "total_quota": 31,
+    "overall_min_score": 71.34112,
+    "overall_max_score": 83.49061,
+    "latest_min_score": 77.44412,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "AKSARAY",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 20,
+        "min_score": 74.37422,
+        "max_score": 86.13573,
+        "placements_count": 4,
+        "general_quota": 20,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 80.3548,
+        "max_score": 88.79099,
+        "placements_count": 5,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 6,
+        "min_score": 80.97845,
+        "max_score": 84.88273,
+        "placements_count": 3,
+        "general_quota": 4,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 31,
+    "overall_min_score": 74.37422,
+    "overall_max_score": 88.79099,
+    "latest_min_score": 80.97845,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BİNGÖL",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 6,
+        "min_score": 77.47795,
+        "max_score": 81.85694,
+        "placements_count": 4,
+        "general_quota": 5,
+        "special_quota": 1
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 86.56448,
+        "max_score": 87.72526,
+        "placements_count": 1,
+        "general_quota": 4,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 3,
+        "min_score": 82.35719,
+        "max_score": 84.42983,
+        "placements_count": 3,
+        "general_quota": 0,
+        "special_quota": 3
+      }
+    },
+    "total_quota": 13,
+    "overall_min_score": 77.47795,
+    "overall_max_score": 87.72526,
+    "latest_min_score": 82.35719,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KARABÜK",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 69,
+        "min_score": 69.89176,
+        "max_score": 83.30039,
+        "placements_count": 2,
+        "general_quota": 69,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 8,
+        "min_score": 81.48133,
+        "max_score": 86.82514,
+        "placements_count": 1,
+        "general_quota": 8,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 80.04207,
+        "max_score": 81.31571,
+        "placements_count": 1,
+        "general_quota": 5,
+        "special_quota": 0
+      }
+    },
+    "total_quota": 82,
+    "overall_min_score": 69.89176,
+    "overall_max_score": 86.82514,
+    "latest_min_score": 80.04207,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "MERSİN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 19,
+        "min_score": 81.33527,
+        "max_score": 87.64522,
+        "placements_count": 3,
+        "general_quota": 5,
+        "special_quota": 14
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 26,
+        "min_score": 83.77066,
+        "max_score": 91.49572,
+        "placements_count": 10,
+        "general_quota": 11,
+        "special_quota": 15
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 36,
+        "min_score": 80.82215,
+        "max_score": 92.07635,
+        "placements_count": 9,
+        "general_quota": 21,
+        "special_quota": 15
+      }
+    },
+    "total_quota": 81,
+    "overall_min_score": 80.82215,
+    "overall_max_score": 92.07635,
+    "latest_min_score": 80.82215,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KIRŞEHİR",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 5,
+        "min_score": 74.55918,
+        "max_score": 82.14307,
+        "placements_count": 3,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 85.1748,
+        "max_score": 86.46452,
+        "placements_count": 1,
+        "general_quota": 4,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 1,
+        "min_score": 79.14844,
+        "max_score": 79.14844,
+        "placements_count": 1,
+        "general_quota": 0,
+        "special_quota": 1
+      }
+    },
+    "total_quota": 10,
+    "overall_min_score": 74.55918,
+    "overall_max_score": 86.46452,
+    "latest_min_score": 79.14844,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BARTIN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 17,
+        "min_score": 71.18574,
+        "max_score": 81.49886,
+        "placements_count": 1,
+        "general_quota": 17,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 10,
+        "min_score": 83.31337,
+        "max_score": 87.85819,
+        "placements_count": 2,
+        "general_quota": 9,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 77.12179,
+        "max_score": 82.12031,
+        "placements_count": 4,
+        "general_quota": 3,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 32,
+    "overall_min_score": 71.18574,
+    "overall_max_score": 87.85819,
+    "latest_min_score": 77.12179,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "ADIYAMAN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 41,
+        "min_score": 77.12481,
+        "max_score": 87.70402,
+        "placements_count": 2,
+        "general_quota": 41,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 44,
+        "min_score": 80.47889,
+        "max_score": 91.57833,
+        "placements_count": 11,
+        "general_quota": 37,
+        "special_quota": 7
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 2,
+        "min_score": 83.18565,
+        "max_score": 88.62334,
+        "placements_count": 2,
+        "general_quota": 0,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 87,
+    "overall_min_score": 77.12481,
+    "overall_max_score": 91.57833,
+    "latest_min_score": 83.18565,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "BATMAN",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 1,
+        "min_score": 88.98025,
+        "max_score": 88.98025,
+        "placements_count": 1,
+        "general_quota": 1,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 87.80584,
+        "max_score": 90.42438,
+        "placements_count": 3,
+        "general_quota": 4,
+        "special_quota": 1
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 2,
+        "min_score": 87.87352,
+        "max_score": 88.01577,
+        "placements_count": 2,
+        "general_quota": 0,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 8,
+    "overall_min_score": 87.80584,
+    "overall_max_score": 90.42438,
+    "latest_min_score": 87.87352,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "KİLİS",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 9,
+        "min_score": 74.2448,
+        "max_score": 78.82843,
+        "placements_count": 2,
+        "general_quota": 7,
+        "special_quota": 2
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 5,
+        "min_score": 81.78549,
+        "max_score": 88.65961,
+        "placements_count": 4,
+        "general_quota": 2,
+        "special_quota": 3
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 2,
+        "min_score": 80.09928,
+        "max_score": 80.13197,
+        "placements_count": 2,
+        "general_quota": 0,
+        "special_quota": 2
+      }
+    },
+    "total_quota": 16,
+    "overall_min_score": 74.2448,
+    "overall_max_score": 88.65961,
+    "latest_min_score": 80.09928,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  },
+  {
+    "il": "OSMANİYE",
+    "periods": {
+      "2024/5": {
+        "donem": "2024/5",
+        "year": 2024,
+        "total_quota": 37,
+        "min_score": 75.999,
+        "max_score": 86.75266,
+        "placements_count": 1,
+        "general_quota": 37,
+        "special_quota": 0
+      },
+      "2025/4": {
+        "donem": "2025/4",
+        "year": 2025,
+        "total_quota": 4,
+        "min_score": 85.34886,
+        "max_score": 92.11823,
+        "placements_count": 1,
+        "general_quota": 4,
+        "special_quota": 0
+      },
+      "2025/5": {
+        "donem": "2025/5",
+        "year": 2025,
+        "total_quota": 2,
+        "min_score": 83.34275,
+        "max_score": 91.09923,
+        "placements_count": 2,
+        "general_quota": 2,
+        "special_quota": 0
+      }
+    },
+    "total_quota": 43,
+    "overall_min_score": 75.999,
+    "overall_max_score": 92.11823,
+    "latest_min_score": 83.34275,
+    "latest_period": "2025/5",
+    "institutions_count": 0
+  }
+]

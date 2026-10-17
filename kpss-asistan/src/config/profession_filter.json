@@ -1,0 +1,89 @@
+{
+  "active_target": {
+    "profession_standard": "HEMŞİRE",
+    "education_level": "Lisans",
+    "qualification_codes": ["4605"],
+    "slug": "hemsire-lisans",
+    "title_tr": "Hemşire (Lisans)"
+  },
+  "available_targets": [
+    {
+      "profession_standard": "HEMŞİRE",
+      "education_level": "Lisans",
+      "qualification_codes": ["4605"],
+      "slug": "hemsire-lisans",
+      "title_tr": "Hemşire (Lisans)"
+    },
+    {
+      "profession_standard": "EBE",
+      "education_level": "Lisans",
+      "qualification_codes": ["4603"],
+      "slug": "ebe-lisans",
+      "title_tr": "Ebe (Lisans)"
+    },
+    {
+      "profession_standard": "DİYETİSYEN",
+      "education_level": "Lisans",
+      "qualification_codes": ["4797"],
+      "slug": "diyetisyen-lisans",
+      "title_tr": "Diyetisyen (Lisans)"
+    },
+    {
+      "profession_standard": "FİZYOTERAPİST",
+      "education_level": "Lisans",
+      "qualification_codes": ["4587"],
+      "slug": "fizyoterapist-lisans",
+      "title_tr": "Fizyoterapist (Lisans)"
+    },
+    {
+      "profession_standard": "PSİKOLOG",
+      "education_level": "Lisans",
+      "qualification_codes": ["4131"],
+      "slug": "psikolog-lisans",
+      "title_tr": "Psikolog (Lisans)"
+    }
+  ],
+  "normalization_map": {
+    "HEMRE": "HEMŞİRE",
+    "HEMSIRE": "HEMŞİRE",
+    "HEMŞİRE": "HEMŞİRE",
+    "EBE": "EBE",
+    "BRO PERSONEL": "BÜRO PERSONELİ",
+    "BURO PERSONELI": "BÜRO PERSONELİ",
+    "BÜRO PERSONELİ": "BÜRO PERSONELİ",
+    "DYETSYEN": "DİYETİSYEN",
+    "DIYETISYEN": "DİYETİSYEN",
+    "DİYETİSYEN": "DİYETİSYEN",
+    "FZYOTERAPST": "FİZYOTERAPİST",
+    "FIZYOTERAPIST": "FİZYOTERAPİST",
+    "FİZYOTERAPİST": "FİZYOTERAPİST",
+    "PSKOLOG": "PSİKOLOG",
+    "PSIKOLOG": "PSİKOLOG",
+    "PSİKOLOG": "PSİKOLOG",
+    "KLNK PSKOLOG": "KLİNİK PSİKOLOG",
+    "KLINIK PSIKOLOG": "KLİNİK PSİKOLOG",
+    "KLİNİK PSİKOLOG": "KLİNİK PSİKOLOG",
+    "SOSYAL ALIMACI": "SOSYAL ÇALIŞMACI",
+    "SOSYAL CALISMACI": "SOSYAL ÇALIŞMACI",
+    "SOSYAL ÇALIŞMACI": "SOSYAL ÇALIŞMACI",
+    "BYOLOG": "BİYOLOG",
+    "BIYOLOG": "BİYOLOG",
+    "BİYOLOG": "BİYOLOG",
+    "OCUK GELMCS": "ÇOCUK GELİŞİMCİSİ",
+    "COCUK GELISIMCISI": "ÇOCUK GELİŞİMCİSİ",
+    "ÇOCUK GELİŞİMCİSİ": "ÇOCUK GELİŞİMCİSİ",
+    "DL VE KONUMA TERAPST": "DİL VE KONUŞMA TERAPİSTİ",
+    "DIL VE KONUSMA TERAPISTI": "DİL VE KONUŞMA TERAPİSTİ",
+    "DİL VE KONUŞMA TERAPİSTİ": "DİL VE KONUŞMA TERAPİSTİ",
+    "ODYOLOG": "ODYOLOG",
+    "PERFZYONST": "PERFÜZYONİST",
+    "PERFUZYONIST": "PERFÜZYONİST",
+    "PERFÜZYONİST": "PERFÜZYONİST",
+    "SALIK FZKS": "SAĞLIK FİZİKÇİSİ",
+    "SAGLIK FIZIKCISI": "SAĞLIK FİZİKÇİSİ",
+    "SAĞLIK FİZİKÇİSİ": "SAĞLIK FİZİKÇİSİ",
+    " VE URAI TERAPST (ERGOTERAPST)": "İŞ VE UĞRAŞ TERAPİSTİ (ERGOTERAPİST)",
+    "IS VE UGRASI TERAPISTI (ERGOTERAPIST)": "İŞ VE UĞRAŞ TERAPİSTİ (ERGOTERAPİST)",
+    "İŞ VE UĞRAŞ TERAPİSTİ (ERGOTERAPİST)": "İŞ VE UĞRAŞ TERAPİSTİ (ERGOTERAPİST)"
+  }
+}

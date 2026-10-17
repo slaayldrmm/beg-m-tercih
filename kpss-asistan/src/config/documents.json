@@ -1,0 +1,84 @@
+{
+  "documents": [
+    {
+      "id": "diploma",
+      "title": "Diploma veya Geçici Mezuniyet Belgesi",
+      "category": "Eğitim",
+      "required": true,
+      "description": "Lisans Hemşirelik diplomasının aslı ve fotokopisi veya e-Devlet üzerinden alınan karekodlu YÖK Mezun Belgesi.",
+      "tip": "e-Devlet üzerinden alınan belgeler resmi olarak geçerlidir, ıslak imza onayına gerek yoktur."
+    },
+    {
+      "id": "kpss_result",
+      "title": "KPSS Yerleştirme Sonuç Belgesi",
+      "category": "Sınav",
+      "required": true,
+      "description": "ÖSYM'nin sonuc.osym.gov.tr adresinden alınan, internet doğrulama kodlu yerleştirme sonuç belgesi çıktısı.",
+      "tip": "Belge üzerinde yer alan kontrol kodunun okunaklı olmasına dikkat ediniz."
+    },
+    {
+      "id": "health_report",
+      "title": "Sağlık Kurulu Raporu (Heyet Raporu)",
+      "category": "Sağlık",
+      "required": true,
+      "description": "Tam teşekküllü devlet veya üniversite hastanelerinden alınacak, 'Görevini devamlı yapmasına engel akıl veya beden hastalığı bulunmamaktadır' ibareli sağlık kurulu raporu.",
+      "tip": "Randevuların yoğun olabilmesi sebebiyle sonuçlar açıklanır açıklanmaz heyet randevusu alınması önerilir."
+    },
+    {
+      "id": "adli_sicil",
+      "title": "Adli Sicil Kaydı Belgesi",
+      "category": "Resmi Kayıt",
+      "required": true,
+      "description": "e-Devlet üzerinden 'Resmi Kuruma Verilmek Üzere' seçeneğiyle oluşturulan karekodlu adli sicil belgesi.",
+      "tip": "Belgenin verileceği kurum alanına 'Sağlık Bakanlığı' yazılması uygundur."
+    },
+    {
+      "id": "mal_bildirimi",
+      "title": "Mal Bildirimi Beyannamesi",
+      "category": "Form",
+      "required": true,
+      "description": "3628 sayılı Kanun gereğince doldurulan, kapalı zarf içerisinde teslim edilen resmi mal bildirimi formu.",
+      "tip": "İlgili form İl Sağlık Müdürlüklerinin duyurular ekinde paylaşılır. Üzerinde silinti/kazıntı olmamalıdır."
+    },
+    {
+      "id": "kimlik",
+      "title": "T.C. Kimlik Kartı Aslı ve Fotokopisi",
+      "category": "Kimlik",
+      "required": true,
+      "description": "Nüfus cüzdanı / T.C. Kimlik kartının aslı ve önlü arkalı fotokopisi.",
+      "tip": "Aslı kontrol edilip iade edilir, fotokopisi dosyaya eklenir."
+    },
+    {
+      "id": "askerlik",
+      "title": "Askerlik Durum Belgesi (Erkek Adaylar İçin)",
+      "category": "Askerlik",
+      "required": false,
+      "description": "Askerlikle ilişiği olmadığını gösteren e-Devlet karekodlu belge (Terhis, Muaf veya Tecilli).",
+      "tip": "Bakaya durumunda olanların atama işlemleri askerlik şubesinden yazı getirmedikçe tamamlanamaz."
+    },
+    {
+      "id": "fotograf",
+      "title": "Vesikalık / Biyometrik Fotoğraf (6 Adet)",
+      "category": "Fotoğraf",
+      "required": true,
+      "description": "Son 6 ay içerisinde Kamu Kurum ve Kuruluşlarında Çalışan Personelin Kılık ve Kıyafetine Dair Yönetmeliğe uygun çekilmiş vesikalık fotoğraf.",
+      "tip": "Fotoğrafların arkasına kurşun kalemle T.C. kimlik numarası ve ad-soyad yazılması tavsiye edilir."
+    },
+    {
+      "id": "ikametgah",
+      "title": "Yerleşim Yeri (İkametgah) Belgesi",
+      "category": "Resmi Kayıt",
+      "required": true,
+      "description": "e-Devlet kapısından alınan barkodlu yerleşim yeri belgesi.",
+      "tip": "Belge geçerlilik süresinin (genellikle 1 ay) geçmemiş olmasına dikkat ediniz."
+    },
+    {
+      "id": "sgk_hizmet",
+      "title": "SGK Tescil ve Hizmet Dökümü",
+      "category": "Çalışma",
+      "required": false,
+      "description": "Daha önce kamu veya özel sektörde sigortalı çalışması bulunan adaylar için e-Devlet barkodlu hizmet dökümü.",
+      "tip": "Daha önce hiç çalışması olmayan adaylar için zorunlu değildir."
+    }
+  ]
+}

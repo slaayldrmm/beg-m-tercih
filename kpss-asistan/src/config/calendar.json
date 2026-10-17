@@ -1,0 +1,63 @@
+{
+  "notice": "Tarihler Sağlık Bakanlığı ve ÖSYM tarafından açıklandıkça bu dosyadan güncellenebilir. Bilinmeyen veya henüz açıklanmamış tarihler için 'Açıklanmadı' veya boş bırakabilirsiniz.",
+  "active_recruitment": {
+    "title": "Sağlık Bakanlığı 2026 Yılı Sözleşmeli Personel Alımı (Örnek Şablon)",
+    "events": [
+      {
+        "id": "guideline_release",
+        "title": "ÖSYM Tercih Kılavuzunun Yayımlanması",
+        "date_str": "Tarih Bekleniyor",
+        "status": "pending",
+        "description": "ÖSYM tarafından resmi tercih kılavuzu ve kadro tabloları (Tablo 3) erişime açılır."
+      },
+      {
+        "id": "preference_start",
+        "title": "Tercih İşlemlerinin Başlaması",
+        "date_str": "Tarih Bekleniyor",
+        "status": "pending",
+        "description": "Adaylar ais.osym.gov.tr üzerinden T.C. kimlik numaraları ile tercihlerini sisteme kaydeder."
+      },
+      {
+        "id": "preference_end",
+        "title": "Tercih İşlemlerinin Sona Ermesi",
+        "date_str": "Tarih Bekleniyor",
+        "status": "pending",
+        "description": "Tercih bildirim ekranı saat 23:59 itibarıyla kapanır. Tercih ücreti son ödeme saatine dikkat edilmelidir."
+      },
+      {
+        "id": "results_announcement",
+        "title": "Yerleştirme Sonuçlarının Açıklanması",
+        "date_str": "Tarih Bekleniyor",
+        "status": "pending",
+        "description": "ÖSYM sonuç sayfasında yerleştirme sonuçları ve taban/tavan puanlar ilan edilir."
+      },
+      {
+        "id": "document_submission",
+        "title": "Atama Evraklarının İl Sağlık Müdürlüklerine Teslimi",
+        "date_str": "Tarih Bekleniyor",
+        "status": "pending",
+        "description": "Yerleşen adaylar atanmaya hak kazandıkları İl Sağlık Müdürlüğünün duyurduğu adrese evraklarını şahsen teslim eder."
+      }
+    ]
+  },
+  "past_periods": [
+    {
+      "period": "KPSS-2025/5",
+      "date": "Eylül - Ekim 2025",
+      "quota_total": 2149,
+      "description": "Lisans düzeyinde 738 Hemşire ataması yapılmıştır."
+    },
+    {
+      "period": "KPSS-2025/4",
+      "date": "Mayıs 2025",
+      "quota_total": 1887,
+      "description": "Lisans düzeyinde 656 Hemşire ataması yapılmıştır."
+    },
+    {
+      "period": "KPSS-2024/5",
+      "date": "Şubat - Mart 2024",
+      "quota_total": 2559,
+      "description": "Lisans düzeyinde 656 Hemşire ataması yapılmıştır."
+    }
+  ]
+}
