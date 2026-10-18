@@ -15,6 +15,7 @@ import {
 } from '@/components/icons';
 import { DisclaimerBanner } from '@/components/DisclaimerBanner';
 import { analyzePreferenceBalance } from '@/lib/prediction';
+import { toProvinceSlug } from '@/lib/province-slug';
 import { PreferenceItem } from '@/types';
 
 export default function PreferenceListPage() {
@@ -266,10 +267,7 @@ export default function PreferenceListPage() {
       ) : (
         <div className="space-y-3">
           {items.map((item, index) => {
-            const slug = item.il.toLowerCase()
-              .replace(/ğ/g, 'g').replace(/ü/g, 'u').replace(/ş/g, 's')
-              .replace(/ı/g, 'i').replace(/ö/g, 'o').replace(/ç/g, 'c')
-              .replace(/İ/g, 'i');
+            const slug = toProvinceSlug(item.il);
 
             return (
               <div

@@ -15,6 +15,7 @@ import {
   InfoIcon
 } from '@/components/icons';
 import { predictAllProvinces } from '@/lib/prediction';
+import { toProvinceSlug } from '@/lib/province-slug';
 import { ProvinceSummary, PredictionResult, RiskCategory } from '@/types';
 import provincesSummaryRaw from '@/data/provinces_summary.json';
 import { REGIONS_LIST } from '@/data/turkey_regions';
@@ -498,10 +499,7 @@ export default function PlacementExplorerPage() {
               <tbody className="divide-y divide-slate-100 dark:divide-slate-800 text-xs sm:text-sm">
                 {filteredList.map((item) => {
                   const isAdded = addedProvinces.includes(item.il);
-                  const slug = item.il.toLowerCase()
-                    .replace(/ğ/g, 'g').replace(/ü/g, 'u').replace(/ş/g, 's')
-                    .replace(/ı/g, 'i').replace(/ö/g, 'o').replace(/ç/g, 'c')
-                    .replace(/İ/g, 'i');
+                  const slug = toProvinceSlug(item.il);
 
                   return (
                     <tr

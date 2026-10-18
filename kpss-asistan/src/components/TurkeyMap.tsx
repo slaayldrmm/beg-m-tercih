@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { TURKEY_PROVINCES_GEO, ProvinceGeoInfo } from '@/data/turkey_regions';
+import { toProvinceSlug } from '@/lib/province-slug';
 import { PredictionResult } from '@/types';
 import { MapPinIcon, ArrowRightIcon } from './icons';
 
@@ -224,7 +225,7 @@ export function TurkeyMap({ predictions, onSelectProvince, selectedRegion = 'Tü
           </div>
 
           <Link
-            href={`/il/${hovered.geo.slug}`}
+            href={`/il/${toProvinceSlug(hovered.geo.name)}`}
             className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg bg-teal-600 hover:bg-teal-500 text-white font-medium text-xs transition-colors"
           >
             {hovered.geo.name} Detayına Git

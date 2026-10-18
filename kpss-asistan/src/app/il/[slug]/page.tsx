@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { TURKEY_PROVINCES_GEO } from '@/data/turkey_regions';
+import { toProvinceSlug } from '@/lib/province-slug';
 import provincesSummaryRaw from '@/data/provinces_summary.json';
 import nurseLisansRaw from '@/data/nurse_lisans.json';
 import { DisclaimerBanner, SourceDocBadge } from '@/components/DisclaimerBanner';
@@ -21,7 +22,7 @@ interface PageProps {
 
 export async function generateStaticParams() {
   return TURKEY_PROVINCES_GEO.map((p) => ({
-    slug: p.slug,
+    slug: toProvinceSlug(p.name),
   }));
 }
 
@@ -29,7 +30,7 @@ export default async function ProvinceDetailPage({ params }: PageProps) {
   const { slug } = await params;
   
   // Find geo info
-  const geo = TURKEY_PROVINCES_GEO.find(p => p.slug === slug);
+  const geo = TURKEY_PROVINCES_GEO.find(p => toProvinceSlug(p.name) === slug);
   if (!geo) {
     notFound();
   }
